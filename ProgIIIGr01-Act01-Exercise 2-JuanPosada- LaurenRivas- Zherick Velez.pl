@@ -3,7 +3,6 @@ Nombre del programa: El Coronel West realmente es un criminal?
 Autores: Juan Jose Posada Arboleda, Lauren Yaneth Rivas y Zherick Velez
 Profesor: Ramiro Andres Barrios Valencia
 Fecha: 02/09/2024
-Descripción: 
 */
 % 2. Probar que Coronel West es un criminal por los predicados dados
 
